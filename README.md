@@ -223,8 +223,5 @@ python app.py --only ford
 
 ---
 
-## 👩‍💻 Author
 
-Built and maintained by [Sude Bayhan](https://linkedin.com/in/sude-bayhan) as part of the internal competitive intelligence infrastructure at Skoda Yuce Auto.
 
-© 2026 Sude Bayhan. All rights reserved. This project is not licensed for use, modification, or distribution.
