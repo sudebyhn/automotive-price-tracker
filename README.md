@@ -19,6 +19,8 @@ This makes the system **layout-independent**: as long as the underlying API cont
 ---
 
 ## 🏗️ Architecture
+```
+
 ┌─────────────────────────────────────────────────┐
 
 │                   app.py (Orchestrator)          │
@@ -92,6 +94,7 @@ This makes the system **layout-independent**: as long as the underlying API cont
 │  (all brands)       │     (Marka, Fiyat, car_detail, tarih)
 
 └─────────────────────┘
+```
 
 ---
 
